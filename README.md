@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Build, Secure and Protect a web application (Microsoft Azure) </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Deployed Azure web app with all security and high-availability considerations to host "alicyberbloh.info](https://github.com/niksouy/Azure-Webserver)
 - <b>Penetration Test and Report Project (web applications, Linux Servers, and Windows machines)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Vulnerability Assessment (OpenVAS)</b>
