@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Build, Secure and Protect a web application (Microsoft Azure) </b>
-  - [Deployed Azure web app with all security and high-availability considerations to host "alicyberbloh.info](https://github.com/niksouy/Azure-Webserver)
+  - [Deployed Azure web app with all security and high-availability considerations to host "alicyberblog.info](https://github.com/niksouy/Azure-Webserver)
 - <b>Penetration Test and Report Project (web applications, Linux Servers, and Windows machines)</b>
   - [PenTest for Rekall Corporation](https://github.com/niksouy/Penetration-Test-and-Report/blob/main/README.md) 
 - <b>Vulnerability Assessment (OpenVAS)</b>
