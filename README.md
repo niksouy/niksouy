@@ -22,7 +22,7 @@
 
 <h2> 📜 Certifications:</h2>
 
-- <b>Cybersecurity Diploma from UofT</b>
+- <b>Cybersecurity Diploma from UofT Bootcamp</b>
 - <b>CompTIA Security +</b>
 
 
