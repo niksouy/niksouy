@@ -5,7 +5,9 @@
 - <b>Build, Secure and Protect a web application (Microsoft Azure) </b>
   - [Deployed Azure web app with all security and high-availability considerations to host "alicyberblog.info](https://github.com/niksouy/Azure-Webserver)
 - <b>Penetration Test and Report Project (web applications, Linux Servers, and Windows machines)</b>
-  - [PenTest for Rekall Corporation](https://github.com/niksouy/Penetration-Test-and-Report/blob/main/README.md) 
+  - [PenTest for Rekall Corporation](https://github.com/niksouy/Penetration-Test-and-Report/blob/main/README.md)
+- <b>Defensive Security by Splunk (Reporting, Alerting, and Dashboards)</b>
+  - [Monitored, Aggregated, Baselined, and Analyzed Windows Events and Apache logs](https://github.com/niksouy/Penetration-Test-and-Report/blob/main/README.md)
 - <b>Vulnerability Assessment (OpenVAS)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
