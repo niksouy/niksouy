@@ -7,18 +7,13 @@
 - <b>Penetration Test and Report Project (web applications, Linux Servers, and Windows machines)</b>
   - [PenTest for Rekall Corporation](https://github.com/niksouy/Penetration-Test-and-Report/blob/main/README.md)
 - <b>Defensive Security by Splunk (Reporting, Alerting, and Dashboards)</b>
-  - [Monitored, Aggregated, Baselined, and Analyzed Windows Events and Apache logs] https://github.com/niksouy/Splunk-SIEM
+  - [Monitored, Aggregated, Baselined, and Analyzed Windows Events and Apache logs]https://github.com/niksouy/Splunk-SIEM 
 - <b>Vulnerability Assessment (OpenVAS)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  
 - <b>Phishing (Pyphisher)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  
 - <b>Digital Forensic</b>
-  - [Package Delivery Application (Data structures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 <h2> 📜 Certifications:</h2>
 
