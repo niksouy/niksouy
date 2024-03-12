@@ -7,7 +7,7 @@
 - <b>Penetration Test and Report Project (web applications, Linux Servers, and Windows machines)</b>
   - [PenTest for Rekall Corporation](https://github.com/niksouy/Penetration-Test-and-Report/blob/main/README.md)
 - <b>Defensive Security by Splunk (Reporting, Alerting, and Dashboards)</b>
-  - [Monitored, Aggregated, Baselined, and Analyzed Windows Events and Apache logs]https://github.com/niksouy/Splunk-SIEM 
+  - [Monitored, Aggregated, Baselined, and Analyzed Windows Events and Apache logs](https://github.com/niksouy/Splunk-SIEM)  
 - <b>Vulnerability Assessment (OpenVAS)</b>
   
 - <b>Phishing (Pyphisher)</b>
